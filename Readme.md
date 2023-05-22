@@ -23,7 +23,8 @@ python todo_list.py
 
 5-Siga as instruções exibidas no menu para interagir com o sistema.
 
-Contribuição
+Contribuição:
+
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para enviar um pull request.
 
 Licença

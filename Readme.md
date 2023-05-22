@@ -1,16 +1,19 @@
 Sistema de Gerenciamento de Tarefas (To-Do List)
 Este é um projeto de um sistema de gerenciamento de tarefas em Python. O sistema permite adicionar, visualizar, marcar como concluídas e definir datas de vencimento para as tarefas.
 
-Funcionalidades
+Funcionalidades:
+
 Adicionar uma nova tarefa à lista
 Visualizar todas as tarefas pendentes
 Marcar uma tarefa como concluída
 Definir uma data de vencimento para uma tarefa
 
-Requisitos
+Requisitos:
+
 Python 3.x
 
-Como executar o programa
+Como executar o programa:
+
 1-Faça o download ou clone este repositório em sua máquina local.
 
 2-Certifique-se de ter o Python 3.x instalado em sua máquina.
@@ -27,9 +30,11 @@ Contribuição:
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novas funcionalidades, sinta-se à vontade para enviar um pull request.
 
-Licença
+Licença:
+
 Este projeto está licenciado sob 
 
-Contato
+Contato:
+
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 Adriano Gutierrez Peres
